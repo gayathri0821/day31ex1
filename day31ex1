@@ -1,0 +1,15 @@
+package march31;
+
+public class Ex1a 
+{
+	private int customerid;
+	private String customername;
+	private static String customeraddress;
+	private long creditcardnumber;
+	private long mobilenumber;
+	private String productname;
+	private static double price;
+	private int quantity;
+
+}
+
